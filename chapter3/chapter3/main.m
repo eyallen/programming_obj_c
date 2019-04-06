@@ -2,8 +2,8 @@
 //  main.m
 //  chapter3
 //
-//  Created by Alexander Allen on 4/4/19.
-//  Copyright © 2019 Alexander Allen. All rights reserved.
+//  Created by eyallen on 4/4/19.
+//  Copyright © 2019 eyallen . All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
